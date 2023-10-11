@@ -1,0 +1,31 @@
+.section h1 {
+    color: #FF5733;
+}
+
+.my-class {
+    font-size: 20px;
+    text-align: center;
+}
+
+.section:nth-child(2) .my-class,
+a {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#special-section {
+    background-color: #FFFFFF;
+    padding: 25px;
+    border: 2px solid #e74c3c;
+}
+
+a:hover {
+    color: #33B2FF;
+    text-decoration: underline;
+}
+
+#special-section {
+    margin: 15px;
+    border-radius: 8px;
+}
